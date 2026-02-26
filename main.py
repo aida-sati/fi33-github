@@ -6,3 +6,6 @@ print(a)
 
 b = 20*5
 print(b)
+
+print(b)
+m = 0
