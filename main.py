@@ -13,4 +13,7 @@ range(1,5)
 
 print(a)
 print(b)
+print(a)
+print(a)
+
 print(m)
