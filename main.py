@@ -11,5 +11,8 @@ print(b)
 m = 0
 range(1,5)
 
+print(a)
+print(a)
+print(a)
 
 print(m)
