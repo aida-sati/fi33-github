@@ -6,5 +6,3 @@ print(a)
 
 b = 20*5
 print(b)
-
-c = 1
